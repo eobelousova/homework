@@ -1,2 +1,4 @@
 # homeworks
-## _*Домашние* задания_ 
+## хозяин _Белоусова Екатерина_
+*[Почта](mailto:eobelousova@edu.hse.ru)
+*[Telegram](https://t.me/eobelousova)
