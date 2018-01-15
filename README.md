@@ -1,4 +1,4 @@
 # homeworks
-## Студентка _Белоусова Екатерина_
+## **Студентка:** _Белоусова Екатерина_
 * [Почта](mailto:eobelousova@edu.hse.ru)
 * [Telegram](https://t.me/eobelousova)
